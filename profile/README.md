@@ -1,4 +1,4 @@
-## Offical Spooky Inc. Websites/GitHub Organizations
+## Official Spooky Inc. Websites/GitHub Organizations
 
 # prp.bio
 [Website](https://prp.bio)
