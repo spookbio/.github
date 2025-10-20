@@ -1,22 +1,3 @@
-## Official Spooky Inc. Websites/GitHub Organizations
+# [Our Websites](https://github.com/Our-Websites)
 
-# prp.bio
-[Website](https://prp.bio)
-
-[GitHub](https://github.com/prpbio)
-
-
-
-# shapes.lol
-[Website](https://shapes.lol)
-
-![Shapes Official Logo](https://cdn.shapes.lol/shapes/logo2.png)
-
-[GitHub](https://github.com/shapeslol)
-
-# spook.bio
-[Website](https://spook.bio)
-
-![Spooky Inc. Official Logo](https://cdn.shapes.lol/spooky/logo.png)
-
-[GitHub](https://github.com/spookbio)
+![Spooky Inc. Official Logo](https://cdn.shapes.lol/spook/logo.png)
